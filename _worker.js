@@ -14,7 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://mn.tomproxy.us.kg
+https://mn.tomproxy.us.kg/?q
 
 
 `
